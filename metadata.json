@@ -1,0 +1,6 @@
+{
+  "name": "ZeyBridge",
+  "description": "Facebook Ads to Zeydoo S2S Postback and Meta Conversions API (CAPI) Attribution Tracker",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
